@@ -1,57 +1,47 @@
 <h1 align="center">Hi there, I'm Binh 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2F9FE8&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Full-Stack+Developer+Intern;Backend+%26+Data+%26+AI+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=binhhhh2828&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/Python-Backend%20%26%20Data-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-REST%20APIs-009688?logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Web-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white" />
 </p>
 
 ---
 
 ## About Me
 
-- 🎓 **Software Engineering** student at the Academy of Cryptography Techniques, Ha Noi (GPA 3.32/4.0, IELTS 7.0)
-- 💼 **Full-Stack Developer Intern** at VFXGroup, building and deploying websites for real clients
-- 🛠️ Hands-on with **backend services**, **web development**, **data analysis** and **IoT / embedded data pipelines**
-- 🤖 Experienced with **AI / LLM applications**, from RAG and tool-calling agents to evaluating how they fail
-- 📊 Completed the **Google Advanced Data Analytics** certificate (SQL, Python, statistics, machine learning)
-- 🌱 Always learning by building, and shipping things people actually use
-
-## What I Work With
-
-| Area | Tools |
-|---|---|
-| **Languages** | Python, SQL, TypeScript |
-| **Backend** | FastAPI, REST APIs, JWT / RBAC authentication, MQTT |
-| **Web** | Next.js, Cloudflare Pages, Cloudflare Stream, technical SEO |
-| **Data** | Pandas, NumPy, BigQuery, PostgreSQL, pgvector, Jupyter, exploratory data analysis |
-| **AI / LLM** | RAG, vector embeddings, ReAct agents, prompt engineering, AI evaluation |
-| **Tools** | Docker, Git / GitHub, Linux |
+-  I'm a **Software Engineering** student at the **Academy of Cryptography Techniques**, Ha Noi (GPA 3.32/4.0, IELTS 7.0)
+-  Hands-on with **backend services** using **Python, FastAPI** and **PostgreSQL**
+-  Comfortable with **data analysis** using **Pandas, NumPy, SQL** and **BigQuery** (Google Advanced Data Analytics certified)
+-  Exploring **AI / LLM applications**: RAG, tool-calling agents and how to evaluate them
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,nextjs,ts,postgres,docker,git,linux,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nextjs,ts,postgres,docker,git,linux,cloudflare,pandas,numpy" />
 </p>
 
-## Projects
+## GitHub Stats
 
-| Project | What it is |
-|---|---|
-| [**SmartCampus-AI**](https://github.com/Khoaitay51/SmartCampus-AI) | AI decision engine for smart buildings: sensor events trigger an agent that uses RAG tools and memory, with human approval for critical actions |
-| [**SmartCampus-edge**](https://github.com/Khoaitay51/SmartCampus-edge) | Edge side of SmartCampus: sensor nodes and an MQTT gateway feeding data to the AI engine |
-| [**Testbed-Attack-AIOT**](https://github.com/binhhhh2828/Testbed-Attack-AIOT) | Testbed for attacking and defending LLM agents in IoT environments |
-| [**LEGO-Timesheet-Analysis**](https://github.com/binhhhh2828/LEGO-Timesheet-Analysis) | Data analysis project in Jupyter Notebook |
-| [**Hospital-Frenzy Game Analytics**](https://github.com/binhhhh2828/Hospital-Frenzy---Game-Analytics) | Game analytics project |
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=binhhhh2828&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binhhhh2828&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## Experience
+---
 
-**Full-Stack Developer Intern, VFXGroup** (Oct 2026 – Present)
-- Shipped 2 live websites for real businesses, working directly with clients from requirements to deployment: [Com Dot Tho Hoi An](https://www.comdothohoian.com/) and [Com Tho Sumo](https://com-tho-sumo.pages.dev/)
-- Built the core backend of a movie streaming platform (staging): JWT / RBAC auth, payment workflows and Cloudflare Stream video delivery
+## Contact Me
 
-## Contact
+- Email: [binh.lai.stephen@gmail.com](mailto:binh.lai.stephen@gmail.com)
+- GitHub: [github.com/binhhhh2828](https://github.com/binhhhh2828)
+- Location: Ha Noi, Viet Nam
 
-📧 [binh.lai.stephen@gmail.com](mailto:binh.lai.stephen@gmail.com) · 📍 Ha Noi, Viet Nam
+---
+
+> ⭐ If you like what I do, feel free to follow and leave a star. Thanks for stopping by!
